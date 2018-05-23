@@ -1,0 +1,26 @@
+#abas {
+ //   border: 1px solid lightseagreen;
+
+}
+
+#conteudos{
+    border: 1px solid lightskyblue;
+}
+
+.selecionado{
+    background-color: lightseagreen;
+}
+#abas ul{
+    display: inline;
+}
+
+#abas ul li{
+    display: inline-block;
+    border: 1px solid darkblue;
+    padding: 5px 10px;
+    border-radius: 10px 10px 0 0;
+}
+
+.conteudo{
+    border: 1px solid aquamarine;
+}
